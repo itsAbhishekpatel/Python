@@ -6,6 +6,7 @@ print(selfish[0],"\n")
 
 print(selfish)
 
+#string slicing
 # [start:stop]
 num = '123456789'
 print(num[2:8])
